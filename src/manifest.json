@@ -1,0 +1,8 @@
+{
+    "name": "push notification test",
+    "short_name": "push test",
+    "lang": "fi",
+    "start_url": "/localhost:8100",
+    "display": "standalone",
+    "theme_color": "#0275b3"
+}
